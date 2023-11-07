@@ -1,6 +1,7 @@
-//your JS code here. If required.
-function helloworld();
-{
-	alert("HellO World!");
-}
-helloworld();
+// //your JS code here. If required.
+// function helloworld();
+// {
+	
+// }
+// helloworld();
+alert("Hello World!");
